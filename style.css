@@ -1,0 +1,38 @@
+#logo{
+    width: 70px;
+    height: 70px;
+}
+.cartao{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.titulo{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
+.img1{
+   height: 250px;
+   width: 280px;
+}
+.img2{
+    height: 250px;
+    width: 280px;
+ }
+.img3{
+    height: 250px;
+    width: 280px;
+ }
+
+.card-img-top{
+    height: 300px;
+    width: 200px;
+}
+
+.card-estrutura{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
